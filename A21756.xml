@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes Maiestie consydering that not withstanding that by great and mature deliberation of the wysest of this realme, a godly [and] good order of publique prayer and administration of the Sacramentes hath ben set foorth and allowed by Parliament ...</title>
+            <title>Proclamations. 1573-06-11</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1573</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21756</idno>
+            <idno type="STC">STC 8063</idno>
+            <idno type="STC">ESTC S112041</idno>
+            <idno type="EEBO-CITATION">99847300</idno>
+            <idno type="PROQUEST">99847300</idno>
+            <idno type="VID">12330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 456:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes Maiestie consydering that not withstanding that by great and mature deliberation of the wysest of this realme, a godly [and] good order of publique prayer and administration of the Sacramentes hath ben set foorth and allowed by Parliament ...</title>
+                  <title>Proclamations. 1573-06-11</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>In Powles churcheyarde by Richard Iugge, printer to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1573]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Requiring the observance of the Book of Common Prayer (STC 16291) suppressing STC 10847 and STC 4711.--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Prohibited books --  England --  Early works to 1800.</term>
+               <term>Censorship --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:12330:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes Maieſtie conſydering that notwithſtanding that by great and ma<g ref="char:EOLhyphen"/>ture deliberation of the wyſeſt of this Realme, a godly a good order of publique prayer and adminiſtration of the Sacramentes hath ben ſet foorth and allowed by Parliament, and commonly through the whole Realme, in al the tyme of her Maieſties raigne receiued and vſed: yet ſome perſons of theyr natures vnquiet<g ref="char:EOLhyphen"/>ly diſpoſed, deſyrous to change, and therefore redy to fynde fault with al wel eſta<g ref="char:EOLhyphen"/>bliſhed orders, do not only refrayne from comming to the Church, where the di<g ref="char:EOLhyphen"/>uine ſeruice and common prayer is orderly vſed, but alſo do vſe of theyr owne deuiſes, other rites and cere<g ref="char:EOLhyphen"/>monies then are by the lawes of the Realme receiued and vſed: and beſydes that, ſome of them haue raſhly ſet foorth, and by ſtealth imprinted certayne bookes vnder the title of an admonition to the Parliament, and one other alſo in defence of the ſayde admonition, the whiche bookes do tende to no other ende, but to make diuiſion and diſſention in the opinions of men, and to breede talkes and diſputes agaynſt common or<g ref="char:EOLhyphen"/>der. Her highneſſe therefore, both to repreſſe ſuche inſolent and inordinate contemptes of ſuche as refuſe to come to common prayer and diuine ſeruice, according to the order eſtabliſhed by Parliament, to the euil and pernitious example of others, and to kepe her ſubiectes in one vniforme, godly, and quiet order within her Realme, to auoyde al controuerſies, ſciſmes, and diſſentions that may aryſe: doth ſtrayghtly charge &amp; com<g ref="char:EOLhyphen"/>maunde al her Maieſties faythful and true ſubiectes, them ſelues to kepe, and to cauſe others ſuche as be vnder them, to kepe the order of common prayer, diuine ſeruices, and adminiſtration of the Sacramentes, accordyng as in the ſayde booke of diuine ſeruice they be ſet foorth, and none other contrary or repugnant, vpon payne of her hyghneſſe indignation, and of other paynes in the ſayd acte compryſed.</p>
+            <p>And as concerning the ſaid bookes, called, The admonition to the Parliament, and al other bookes made for the defence of the ſayde admonition, or agreeable therewith, the whiche bookes do cheefely tende to the deprauyng and fyndyng fault with the ſayde booke of common prayer, and adminiſtration of the Sacra<g ref="char:EOLhyphen"/>mentes, and of the orders receiued here in this Churche and common wealth of Englande: Her highneſſe ſtrayghtly chargeth and commaundeth al and euery Prynter, Stationer, Booke bynder, Marchaunt, and al other men of what qualitie or condition he or they be, who hath in theyr cuſtodie any of the ſayd bookes, to bring in the ſame to the Byſhop of the dioceſſe, or to one of her hyghneſſe priuie Counſel, within twentie dayes after that he ſhal haue notice of this Proclamation, and not to kepe any of them without licence or al<g ref="char:EOLhyphen"/>lowance of the ſayde Byſhop, vpon payne of impryſonment, and her highneſſe further diſpleaſure.</p>
+            <closer>
+               <dateline>Geuen at our Manour of Greenewiche, <date>the .xi. day of Iune. 1573. the fyfteenth yere of our raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London in Powles Church<g ref="char:EOLhyphen"/>yarde, by Richarde Iugge, Printer to the Queenes <hi>Maieſtie.</hi>
+            </p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio Regiae Maieſtatis.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
